@@ -1,5 +1,3 @@
-# 거듭제곱 프로그램을 작성하시오
-
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
