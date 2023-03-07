@@ -1,0 +1,3 @@
+([('week_13_03_bitcoin',
+   '/Users/namsujin/PycharmProjects/week13/dist/week_13_03_bitcoin',
+   'EXECUTABLE')],)

@@ -1,0 +1,16 @@
+밑: 100, 지수: 삼 에러!
+숫자만 입력 가능 합니다.
+에러내용: invalid literal for int() with base 10: '삼'
+
+밑: 7, 지수: 팔 에러!
+숫자만 입력 가능 합니다.
+에러내용: invalid literal for int() with base 10: '팔'
+
+밑: 일, 지수:  에러!
+숫자만 입력 가능 합니다.
+에러내용: invalid literal for int() with base 10: '일'
+
+[2022-03-31 18:44:20.194948] 밑: dlf, 지수: 1 에러!
+숫자만 입력 가능 합니다.
+에러내용: invalid literal for int() with base 10: 'dlf'
+
